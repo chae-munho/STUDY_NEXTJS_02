@@ -63,7 +63,6 @@ ul {
   background-color: #bcbcb7;
   color: #181817;
 }
-
 #home {
   margin: 3rem auto;
   max-width: 50rem;
@@ -101,6 +100,7 @@ ul {
 #home a:hover {
   background-color: #e5e5e1;
 }
+
 
 .news-list {
   display: grid;
